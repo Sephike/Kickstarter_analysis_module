@@ -1,4 +1,4 @@
-# Repo_Kickstarter_analysis
+# Kickstarter_analysis
 Performing analysis on Kickstarter data to uncover trends
 # An Analysis of Kickstarter Campaigns ---
 ---
