@@ -6,7 +6,7 @@ Performing analysis on Kickstarter data to uncover trends
 ---
 One of the first things we did with the dataset was seperate the parent category and subcategory to further the filtering of our data. These charts show what we were able to gather by doing so. 
 ---
-![Parent_Category_Chart.png](E:\Boot Camp\Analysis Projects\Crowdfunding analysis\Parent_Category_Chart.png)
+![Parent Category Chart](Parent_Category_Chart.png)
 ---
 ![Subcategory Chart](E:\Boot Camp\Analysis Projects\Crowdfunding analysis\Subcategory_Chart.png)
 Format: ![Alt Text] (url)
