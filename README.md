@@ -8,6 +8,5 @@ One of the first things we did with the dataset was seperate the parent category
 ---
 ![Parent Category Chart](Parent_Category_Chart.png)
 ---
-![Subcategory Chart](E:\Boot Camp\Analysis Projects\Crowdfunding analysis\Subcategory_Chart.png)
-Format: ![Alt Text] (url)
+![Subcategory Chart](Subcategory_Chart.png)
 ---
