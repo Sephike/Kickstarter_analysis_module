@@ -14,3 +14,6 @@ Performing analysis on Kickstarter data to uncover trends
 ---
 ![Outcomes Based on Launch Date](Outcomes%20Based%20on%20Launch%20Date.png)
 ---
+### Next was to look at how musical kickstarters in Great Britian did and how much success, failure, cancels, and live kickstarters are in Great Britian The following graph is the following data.
+---
+![Musicals in Great Britian](Musicals%20in%20GB.png)
